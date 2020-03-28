@@ -1,0 +1,9 @@
+gui.CustomerRegistration$4
+gui.CustomerRegistration$5
+gui.CustomerRegistration$2
+gui.CustomerRegistration$3
+gui.CustomerRegistration$8
+gui.CustomerRegistration$6
+gui.CustomerRegistration$7
+gui.CustomerRegistration
+gui.CustomerRegistration$1
